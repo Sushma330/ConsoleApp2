@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp2
 {
-    internal class Class
+    internal class Class1
     {
-        public static void PrintMessage()
+        public static void show()
         {
-            Class1.show();
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hey");
         }
     }
 }

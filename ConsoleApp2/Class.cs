@@ -12,6 +12,7 @@ namespace ConsoleApp2
         {
             Class1.show();
             Console.WriteLine("Hello");
+            Console.WriteLine("Clash!");
         }
     }
 }

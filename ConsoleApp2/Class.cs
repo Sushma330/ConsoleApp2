@@ -13,7 +13,6 @@ namespace ConsoleApp2
             Class1.show();
             Console.WriteLine("Hello");
             Console.Write("World");
-            Console.WriteLine("Bye..");
         }
     }
 }

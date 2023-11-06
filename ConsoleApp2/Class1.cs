@@ -11,6 +11,7 @@ namespace ConsoleApp2
         public static void show()
         {
             Console.WriteLine("Hey");
+            Console.WriteLine("");
         }
     }
 }
